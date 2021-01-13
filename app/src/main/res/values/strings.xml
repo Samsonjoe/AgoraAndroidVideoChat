@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AgoraAndroidVideoChat</string>
+
+    /video file START
+    <string name="agora_app_id">643d670eae1c4d4fb38d063d99a6e291</string>
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token">006d13cdef5d55a4ff9878a9d0551e8c3c7IAA+ReHtPJqvDoYGDWnRWNFWE8iPlXRKtW7hugeVQ6cEsDXyURsAAAAAEACyc3BitC4AYAEAAQACLwBg</string>
+    //video file END
+
+</resources>
